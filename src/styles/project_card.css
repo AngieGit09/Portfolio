@@ -1,0 +1,16 @@
+.project-card {
+  text-align: center;
+  color: #2f5924;
+  border-radius: 25px;
+  box-shadow: 2px 2px 8px #5f665d;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 900px;
+  margin-bottom: 25px;
+  padding: 15px;
+}
+
+.para {
+  margin-bottom: 50px;
+}

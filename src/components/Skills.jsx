@@ -51,6 +51,7 @@ function Skills() {
           ))}
         </div>
       </div>
+      <div className="line"></div>
     </section>
   );
 }

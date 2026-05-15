@@ -1,7 +1,7 @@
 import Header from "./components/Header";
 import About from "./components/About";
 import Skills from "./components/Skills";
-import "./App.css";
+import Projects from "./components/Projects";
 
 function App() {
   return (
@@ -9,6 +9,7 @@ function App() {
       <Header />
       <About />
       <Skills />
+      <Projects />
     </>
   );
 }
