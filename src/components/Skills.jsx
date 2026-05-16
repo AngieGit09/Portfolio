@@ -2,18 +2,18 @@ import "../styles/Skills.css";
 
 function Skills() {
   const frontSkills = [
-    { name: "HTML", level: "90%" },
-    { name: "CSS", level: "75%" },
-    { name: "JavaScript", level: "65%" },
-    { name: "React", level: "60%" },
+    { name: "HTML", level: "80%" },
+    { name: "CSS", level: "70%" },
+    { name: "JavaScript", level: "60%" },
+    { name: "React", level: "55%" },
     { name: "Figma", level: "90%" },
   ];
 
   const backSkills = [
     { name: "PHP", level: "40%" },
     { name: "Symfony", level: "35%" },
-    { name: "MySQL", level: "85%" },
-    { name: "Git/GitHub", level: "90%" },
+    { name: "MySQL", level: "70%" },
+    { name: "Git/GitHub", level: "80%" },
   ];
 
   return (

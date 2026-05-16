@@ -3,7 +3,7 @@ import "../styles/contact.css";
 function Contact() {
   return (
     <>
-      <section className="contact">
+      <section id="contact" className="contact">
         <h2>Contact</h2>
 
         <p>
@@ -22,6 +22,13 @@ function Contact() {
             rel="noopener noreferrer"
           >
             Retrouver tous mes projets réalisés sur : Mon GitHub
+          </a>
+          <a
+            href="https://www.linkedin.com/in/ang%C3%A9lique-liard-946b8a309/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Retrouver moi sur LinkedIn : Mon LinkedIn
           </a>
         </div>
       </section>

@@ -1,3 +1,4 @@
+/* Section carousel */
 .carousel {
   margin-top: 100px;
   text-align: center;
@@ -12,6 +13,7 @@
   margin-bottom: 80px;
 }
 
+/* Images de la galerie */
 .carousel-image {
   width: 800px;
   height: 450px;

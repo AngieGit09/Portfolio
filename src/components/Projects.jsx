@@ -9,6 +9,7 @@ function Projects() {
         "Accés aux réseaux sociaux dans une nouvelle en toute sécurité depuis le footer. Logo des réseaux sociaux bootstrap cliquable",
       techno: "React • Bootstrap",
       image: "/images_codage/reseaux.png",
+      alt: "capture d'écran de la partie réseaux sociaux du footer du site Rénomeuble",
     },
 
     {
@@ -17,6 +18,7 @@ function Projects() {
         "Route de l’API permettant de récupérer les catégories depuis la base de données. Une requête SQL est exécutée afin de sélectionner les données, qui sont ensuite retournées au format JSON. Ces données sont utilisées par le front-end pour afficher dynamiquement les catégories du site.",
       techno: "PHP",
       image: "/images_codage/Capture d'écran 2026-05-15 180917.png",
+      alt: "capture d'écran d'une route de l'API permattant de récupérer les catégories depuis la base de données.",
     },
 
     {
@@ -25,12 +27,13 @@ function Projects() {
         "Requête SQL qui permet la crétion de la base donnée Rénomeuble.La base renomeuble_db est créée avec l’encodage utf8mb4 afin de garantir la compatibilité avec les caractères spéciaux.",
       techno: "Base de donées • MySQL",
       image: "/images_codage/reseaux.png",
+      alt: "capture d'écran d'une requête SQL",
     },
   ];
 
   return (
     <>
-      <section className="projects">
+      <section id="projects" className="projects">
         <h2>Mes projets</h2>
         <p>
           Le projet présenté ci-dessous est la réalisation d'un site internet

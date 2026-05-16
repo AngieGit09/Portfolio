@@ -1,3 +1,4 @@
+/* Cards */
 .project-card {
   text-align: center;
   color: #2f5924;
@@ -11,6 +12,7 @@
   padding: 15px;
 }
 
+/* marge de séparation du card avec */
 .para {
   margin-bottom: 50px;
 }
