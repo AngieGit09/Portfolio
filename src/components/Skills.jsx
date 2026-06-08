@@ -3,17 +3,17 @@ import "../styles/skills.css";
 function Skills() {
   const frontSkills = [
     { name: "HTML", level: "80%" },
-    { name: "CSS", level: "70%" },
-    { name: "JavaScript", level: "60%" },
-    { name: "React", level: "55%" },
-    { name: "Figma", level: "90%" },
+    { name: "CSS", level: "60%" },
+    { name: "JavaScript", level: "55%" },
+    { name: "React", level: "50%" },
+    { name: "Figma", level: "85%" },
   ];
 
   const backSkills = [
-    { name: "PHP", level: "40%" },
-    { name: "Symfony", level: "35%" },
-    { name: "MySQL", level: "70%" },
-    { name: "Git/GitHub", level: "80%" },
+    { name: "PHP", level: "35%" },
+    { name: "Symfony", level: "25%" },
+    { name: "MySQL", level: "60%" },
+    { name: "Git/GitHub", level: "70%" },
   ];
 
   return (
